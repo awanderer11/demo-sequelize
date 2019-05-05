@@ -1,4 +1,3 @@
-// model dasar
 'use strict';
 module.exports = (sequelize, DataTypes) => {
   const Contact = sequelize.define('Contact', {
